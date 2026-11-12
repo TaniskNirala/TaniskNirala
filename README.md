@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TaniskNirala
 - 👀 I’m interested in Coading
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me niralatanisk76@gmail.com
 
 <!---
